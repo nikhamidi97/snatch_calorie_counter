@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "822600515496",
+    "firebase_url": "https://snatch-e96e3.firebaseio.com",
+    "project_id": "snatch-e96e3",
+    "storage_bucket": "snatch-e96e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822600515496:android:bb931e173c28a99073279d",
+        "android_client_info": {
+          "package_name": "com.example.snatch_calorie_counter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822600515496-7262lg7u50ir8329kt4alngnll2tevkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDynCvEfmhniBQJijTKtSEaZNgkFv3MQFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822600515496-7262lg7u50ir8329kt4alngnll2tevkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
