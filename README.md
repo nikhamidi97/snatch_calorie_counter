@@ -1,6 +1,8 @@
 # snatch_calorie_counter
  AI calorie counter(final year project on progress)
  
+Snatch is a mobile application specifically to track and detect surrounding images, text and QR code and search information on the internet only by using live feed camera on your device. The target audience is appropriate to all ages and children ages 17 and below need to be monitored by the guardians. I will use Android Studio as the compiler. For back-end coding, I will integrate with Firebase, ML kits and Google Cloud Vision. For front-end, I will use Flutter Framework to give an exclusive design. From my prediction, back-end coding will become more challenging. Last but not least, this project will follow the Software Development Life Cycle (SDLC) process as it is the most suitable process for our project.
+ 
  ##TODO
 - [x] connect camera API
 - [ ] collect food dataset
